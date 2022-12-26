@@ -1,17 +1,12 @@
-# Olá Estranho 👋, meu nome é Larissa Dias.
-
-***Ps.: QueenieBloom é apenas um Nickname!!!.*** 
-
- **☁️ Seja Bem-vindo ao meu Github ☁️**
+### Olá Estranho 👋 meu nome é Larissa Dias.
 
 
 - 🔭 18 anos
 - 🖥️ Estagiária na Divisão de Infraestrutura Computacional da Prodepa
 - 🖥️ Atualmente estudando Desenvolvimento Fullstack (Front e Back End)
 - 🌱 Cursando Sistemas de Informação-UFRA (3º semestre)
-- 😄 Pronouns: Ela/Dela........She/Her
 
-&nbsp;
+ &nbsp;
 <div>  
   <a href="https://github.com/QueenieBloom">
   <img height="180em" left="10em"src="https://github-readme-stats.vercel.app/api?username=QueenieBloom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
