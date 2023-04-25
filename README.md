@@ -2,9 +2,9 @@
 
 
 - 🔭 18 anos
-- 🖥️ Estagiária na Divisão de Infraestrutura Computacional da Prodepa
-- 🖥️ Atualmente estudando Desenvolvimento Fullstack (Front e Back End)
-- 🌱 Cursando Sistemas de Informação-UFRA (3º semestre)
+- 🖥️ Estagiária na Divisão de Sistemas Corporativos da Prodepa
+- 🖥️ Atualmente estudando Desenvolvimento Front-End 
+- 🌱 Cursando Sistemas de Informação - UFRA (4º semestre)
 
  &nbsp;
 <div>  
