@@ -1,10 +1,10 @@
 ### Olá Estranho 👋 meu nome é Larissa Dias.
 
 
-- 🔭 18 anos
+- 🔭 19 anos
 - 🖥️ Estagiária na Divisão de Sistemas Corporativos da Prodepa
 - 🖥️ Atualmente estudando Desenvolvimento Front-End 
-- 🌱 Cursando Sistemas de Informação - UFRA (4º semestre)
+- 🌱 Cursando Sistemas de Informação - UFRA (5º semestre)
 
  &nbsp;
 <div>  
