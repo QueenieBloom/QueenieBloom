@@ -7,7 +7,7 @@
 
 <div align="center" >
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=QueenieBloom&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueenieBloom&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueenieBloom&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <br>
