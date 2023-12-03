@@ -6,7 +6,7 @@
 🔭 19 years old<br>🏛️ Belém, Pará, Brazil <br>🌱 Undergraduate student in Information Systems - Federal University of Rural Amazon (UFRA) (6th semester)<br>🖥️ Intern at the Corporate Systems Division of Prodepa<br><br>
 
 <div align="center" >
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=QueenieBloom&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=QueenieBloom&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QueenieBloom&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
