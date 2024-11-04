@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c792ea&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Larissa+Dias;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## 💫 About Me:
-🔭 19 years old<br>🏛️ Belém, Pará, Brazil <br>🌱 Undergraduate student in Information Systems - Federal University of Rural Amazon (UFRA) (6th semester)<br>🖥️ Intern at the Corporate Systems Division of Prodepa<br><br>
+🔭 20 years old<br>🏛️ Belém, Pará, Brazil <br>🌱 Undergraduate student in Information Systems - Federal University of Rural Amazon (UFRA) (6th semester)<!-- <br>🖥️ Intern at the Corporate Systems Division of Prodepa<br><br> -->
 
 <div align="center">
   <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api?username=queeniebloom&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -29,7 +29,6 @@
 
 ## Studying:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 <br>
 
